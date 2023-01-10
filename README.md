@@ -8,4 +8,4 @@ Watching the tutorial alone is not enough, practicing it clears your doubt.
 
 Refer below Python tutorial for more info.
 
-https://www.youtube.com/watch?v=aequTxAvQq4
+https://www.youtube.com/watch?v=xErUnOKQbFw
